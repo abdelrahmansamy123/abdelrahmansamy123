@@ -10,7 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=abdelrahmansamy123" alt="Trophies" />
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-samy127/" target="_blank">
@@ -21,7 +21,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank">
