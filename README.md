@@ -7,23 +7,15 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<table align="right">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/abdelrahman-samy127/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-      </a>
-      <br>LinkedIn
-    </td>
-
-    <td align="center">
-      <a href="mailto:abdelrahmansamy127@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-      </a>
-      <br>Email
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <a href="https://www.linkedin.com/in/abdelrahman-samy127/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abdelrahmansamy127@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif"/>
