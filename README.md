@@ -18,7 +18,8 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif"/>
 <h3 align="left">Languages and Tools:</h3>
-<p align="right">
+<p align="left">
+  <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
@@ -58,7 +59,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  
+  </p>
 </p>
 
 <p>
