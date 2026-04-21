@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Samy</h1>
-<h3 align="center">Mobile Developer ( Native Android by *Kotlin* & Fluuter by *Dart* )</h3>
+<h3 align="center">Mobile Developer (Native Android & Flutter)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelrahmansamy123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="right">
+<p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-samy127/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
