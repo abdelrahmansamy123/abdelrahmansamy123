@@ -22,60 +22,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-</p>
-
+<table align="right">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></td>
+    <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmansamy123" />
 </p>
