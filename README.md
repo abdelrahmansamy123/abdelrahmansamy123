@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Samy</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Mobile Developer ( Native Android by *Kotlin* & Fluuter by *Dart* )</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelrahmansamy123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-samy127/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abdelrahmansamy127@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
-  </a>
-</p>
+
+<table align="right">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/abdelrahman-samy127/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+      </a>
+      <br>LinkedIn
+    </td>
+
+    <td align="center">
+      <a href="mailto:abdelrahmansamy127@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+      </a>
+      <br>Email
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif"/>
@@ -22,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="right">
+<table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
