@@ -17,10 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif"/>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
