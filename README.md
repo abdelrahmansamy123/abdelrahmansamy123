@@ -27,7 +27,9 @@ Building clean, scalable, and user-friendly mobile applications with Kotlin & Da
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
 </p>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
+</div>
 
 <!-- 📱 Mobile & Core Languages -->
 <h3 align="center">📱 Mobile & Core Languages</h3>
@@ -88,6 +90,9 @@ Building clean, scalable, and user-friendly mobile applications with Kotlin & Da
   <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
   <a href="https://helpx.adobe.com/xd/user-guide.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" /></a>
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -97,17 +102,26 @@ Building clean, scalable, and user-friendly mobile applications with Kotlin & Da
     <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=abdelrahmansamy123&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:100%;height:auto;" />
   </div>
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
+</div>
 
 ## 🔥 GitHub Streak
 
 <div align="center" style="margin: 24px 0;">
   <img src="https://streak-stats.demolab.com?user=abdelrahmansamy123&theme=tokyonight&hide_border=true" alt="Abdelrahman Samy GitHub Streak" style="max-width:600px;width:100%;height:auto;" />
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
+</div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelrahmansamy123&theme=tokyonight" alt="GitHub Summary" style="max-width:100%;" />
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative" style="max-width:100%;height:auto;" />
 </div>
 
 ### ⭐ Thanks for visiting my profile!
