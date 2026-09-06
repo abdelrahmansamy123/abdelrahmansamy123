@@ -88,8 +88,8 @@ Building clean, scalable, and user-friendly mobile applications with Kotlin & Da
 
 <div align="center" style="margin: 24px 0;">
   <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;max-width:820px;">
-    <img src="https://github-readme-stats-hadi.vercel.app/api?username=joudysami&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Stats" style="max-width:100%;height:auto;" />
-    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=joudysami&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:100%;height:auto;" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api?username=abdelrahmansamy123&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Stats" style="max-width:100%;height:auto;" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=abdelrahmansamy123&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top Languages" style="max-width:100%;height:auto;" />
   </div>
 </div>
 
