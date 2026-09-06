@@ -28,60 +28,65 @@ Building clean, scalable, and user-friendly mobile applications with Kotlin & Da
   </a>
 </p>
 
-## 🧭 Languages & Tools
 
-<p align="left">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img alt="Bloc" src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge"/>
-  <img alt="Hive" src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge"/>
-  <img alt="Dio" src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge"/>
-  <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-000000?style=for-the-badge"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<!-- 📱 Mobile & Core Languages -->
+<h3 align="center">📱 Mobile & Core Languages</h3>
+
+<p align="center">
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Native" /></a>
+  <a href="https://dev.java" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
+  <a href="https://docs.flutter.dev/platform-integration/platform-channels" target="_blank"><img src="https://img.shields.io/badge/Method%20Channels-02569B?style=for-the-badge" alt="Method Channels" /></a>
 </p>
 
-## 🧩 Technology Stack
+<!-- 🏗️ Architecture & State Management -->
+<h3 align="center">🏗️ Architecture & State Management</h3>
 
-### Primary Technology Stack
-
-<p style="margin: 12px 0;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Native" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge" alt="BLoC" />
-  <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" alt="MVVM" />
-  <img src="https://img.shields.io/badge/MVI-FF6F00?style=for-the-badge" alt="MVI" />
-  <img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge" alt="Testing" />
+<p align="center">
+  <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank"><img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" alt="Clean Architecture" /></a>
+  <a href="https://bloclibrary.dev" target="_blank"><img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge" alt="BLoC" /></a>
+  <a href="https://developer.android.com/topic/architecture" target="_blank"><img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" alt="MVVM" /></a>
+  <a href="https://developer.android.com/topic/architecture/ui-layer" target="_blank"><img src="https://img.shields.io/badge/MVI-FF6F00?style=for-the-badge" alt="MVI" /></a>
+  <a href="https://docs.flutter.dev/testing" target="_blank"><img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge" alt="Testing" /></a>
 </p>
 
-### Secondary Technology Stack
+<!-- 🌐 Networking & Backend -->
+<h3 align="center">🌐 Networking & Backend</h3>
 
-<p style="margin: 12px 0;">
-  <img src="https://img.shields.io/badge/Method%20Channels-02569B?style=for-the-badge" alt="Method Channels" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" alt="Dio" />
-  <img src="https://img.shields.io/badge/Retrofit-000000?style=for-the-badge" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge" alt="Hive" />
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
+<p align="center">
+  <a href="https://restfulapi.net" target="_blank"><img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" alt="REST API" /></a>
+  <a href="https://pub.dev/packages/dio" target="_blank"><img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" alt="Dio" /></a>
+  <a href="https://square.github.io/retrofit/" target="_blank"><img src="https://img.shields.io/badge/Retrofit-000000?style=for-the-badge" alt="Retrofit" /></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
 </p>
 
-### Tertiary Technology Stack
+<!-- 💾 Storage & Databases -->
+<h3 align="center">💾 Storage & Databases</h3>
 
-<p style="margin: 12px 0;">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge" alt="SharedPreferences" />
-  <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge" alt="DataStore" />
+<p align="center">
+  <a href="https://pub.dev/packages/hive" target="_blank"><img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge" alt="Hive" /></a>
+  <a href="https://developer.android.com/training/data-storage/room" target="_blank"><img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" /></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /></a>
+  <a href="https://developer.android.com/topic/libraries/architecture/datastore" target="_blank"><img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge" alt="DataStore" /></a>
+  <a href="https://developer.android.com/reference/android/content/SharedPreferences" target="_blank"><img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge" alt="SharedPreferences" /></a>
+</p>
+
+<!-- 🛠️ Tools & Environment -->
+<h3 align="center">🛠️ Tools & Environment</h3>
+
+<p align="center">
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gradle.org" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" /></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="https://helpx.adobe.com/xd/user-guide.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" /></a>
 </p>
 
 ## 📊 GitHub Stats
